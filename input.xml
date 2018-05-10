@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TableA>
+    <Entry>
+        <CustNo>A-100</CustNo>
+        <PostingDate>23012017</PostingDate>
+        <Amount>867</Amount>
+    </Entry>
+    <Entry>
+        <CustNo>A-120</CustNo>
+        <PostingDate>23012017</PostingDate>
+        <Amount>27</Amount>
+    </Entry>
+    <Entry>
+        <CustNo>A-125</CustNo>
+        <PostingDate>23012017</PostingDate>
+        <Amount>505</Amount>
+    </Entry>
+    <Entry>
+        <CustNo>B-220</CustNo>
+        <PostingDate>26012017</PostingDate>
+        <Amount>150</Amount>
+    </Entry>
+    <Entry>
+        <CustNo>A-500</CustNo>
+        <PostingDate>28012...017</PostingDate>
+        <Amount>27</Amount>
+    </Entry>
+    <Entry>
+        <CustNo>A-520</CustNo>
+        <PostingDate>23012017</PostingDate>
+        <Amount>400</Amount>
+    </Entry>
+    <Entry>
+        <CustNo>B-220</CustNo>
+        <PostingDate>23012017</PostingDate>
+        <Amount>900</Amount>
+    </Entry>
+</TableA>
