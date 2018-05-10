@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TableA>
+    <Entry>
+        <CustNo>A-100xmlsdsdasdasdasdasdasdasdasdasd</CustNo>
+        <PostingDate>23012017</PostingDate>
+        <Amount>867</Amount>
+    </Entry>
+    <Entry>
+        <CustNo>A-120xml</CustNo>
+        <PostingDate>23012017</PostingDate>
+        <Amount>27</Amount>
+    </Entry>
+    <Entry>
+        <CustNo>A-125xml</CustNo>
+        <PostingDate>23012017</PostingDate>
+        <Amount>505</Amount>
+    </Entry>
+    <Entry>
+        <CustNo>B-220xml</CustNo>
+        <PostingDate>26012017</PostingDate>
+        <Amount>150</Amount>
+    </Entry>
+    <Entry>
+        <CustNo>A-500xml</CustNo>
+        <PostingDate>28012...017</PostingDate>
+        <Amount>27</Amount>
+    </Entry>
+    <Entry>
+        <CustNo>A-520xml</CustNo>
+        <PostingDate>23012017</PostingDate>
+        <Amount>400gh</Amount>
+    </Entry>
+    <Entry>
+        <CusNo>B-220xml</CusNo>
+        <PostingDate>23012017</PostingDate>
+        <Amount>900</Amount>
+    </Entry>
+      <Entry>
+        <CustNo>B-220xml</CustNo>
+        <PostingDate>23012017</PostingDate>
+        <Amount>30</Amount>
+    </Entry>
+    <Entry>
+        <CustNo>B-220xml</CustNo>
+        <PostingDate>23012017</PostingDate>
+        <Amount>50</Amount>
+    </Entry>
+    <Entry>
+        <CustNo>B-220xml</CustNo>
+        <PostingDate>23012017</PostingDate>
+        <Amount>800</Amount>
+    </Entry>
+
+</TableA>
